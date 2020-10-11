@@ -1,0 +1,32 @@
+{
+	"pages":[
+		{
+			"path":"pages/index/index",
+			"style":{
+				"navigationBarShadow":{
+					"colorType":"red"
+				}
+			}
+		},
+		{
+			"path":"pages/house/house",
+			"style":{
+				"navigationBarTitleText":"房态图",
+				"navigationBarBackgroundColor": "#f8f8f8",
+				"navigationBarTextStyle":"black",
+				"navigationBarShadow":{
+					"colorType":"grey"
+				}
+			}
+		},
+		{
+			"path":"pages/detail/detail"
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "99旅馆",
+		"navigationBarBackgroundColor": "#ff3b14",
+		"backgroundColor": "#FFFFFF"
+	}
+}
